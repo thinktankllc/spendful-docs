@@ -1,0 +1,8 @@
+{
+  "version": {
+    "android": { "version": "", "build": "" },
+    "ios": { "version": "", "build": "" }
+  },
+  "force": false,
+  "message": ""
+}
