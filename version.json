@@ -1,8 +1,9 @@
 {
   "version": {
     "android": { "version": "", "build": "" },
-    "ios": { "version": "", "build": "" }
+    "ios": { "version": "1.4.2", "build": "4" }
   },
   "force": false,
-  "message": ""
+  "title": "",
+  "message": "We’ve made a few quiet improvements to Spendful. Update whenever it feels right."
 }
