@@ -1,7 +1,7 @@
 {
   "version": {
     "android": { "version": "", "build": "" },
-    "ios": { "version": "1.4.2", "build": "4" }
+    "ios": { "version": "1.4.3", "build": "293" }
   },
   "force": false,
   "title": "",
